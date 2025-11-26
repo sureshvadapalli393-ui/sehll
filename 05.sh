@@ -1,3 +1,3 @@
 #!/bin/bash
 
-var=$($?)
+echo $($?)
