@@ -1,5 +1,7 @@
 #!/bin/bash
 
 
-echo $1 hello
-echo $2 bye
+echo "please ener your num"
+read pin_num
+
+echo $pin_num
