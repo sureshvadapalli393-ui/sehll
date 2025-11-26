@@ -2,6 +2,6 @@
 
 
 echo "please ener your num"
-read pin_num
+read -s pin_num
 
 echo $pin_num
